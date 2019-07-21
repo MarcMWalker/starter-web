@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marc Walker -- Student Game Programmer -- mmwalker1986@gmail.com
 
 # THANKS
 
