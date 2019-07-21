@@ -20,4 +20,4 @@ Please fork this repoistory and then issue Pull requests for review.
 
 ## Copyright
 
-Marc.Training.Git
+2019 Marc.Training.Git
